@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\TestLisen\TestLisen\bin\Debug\TestLisen.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\TestLisen\TestLisen\bin\Debug\TestLisen.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\TestLisen\TestLisen\bin\Debug\TestLisen.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\TestLisen\TestLisen\obj\Debug\TestLisen.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\TestLisen\TestLisen\obj\Debug\TestLisen.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\TestLisen\TestLisen\obj\Debug\TestLisen.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\EPS LT\TestLisen\TestLisen\bin\Debug\TestLisen.exe.config
+C:\Users\Lenovo\Desktop\EPS LT\TestLisen\TestLisen\obj\Debug\TestLisen.exe
+C:\Users\Lenovo\Desktop\EPS LT\TestLisen\TestLisen\obj\Debug\TestLisen.pdb
